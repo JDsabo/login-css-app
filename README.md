@@ -2,7 +2,7 @@
 Small web app with customized CSS and basic JS logic, feel free to edit an re-create. Data and backend could be connected ports are open and the app is fully customizable.
 <br>
 <br>
-Live App: https://login-html-app.vercel.app
+Live App: https://login-html-app.vercel.app/
 <br>
 <br>
 
