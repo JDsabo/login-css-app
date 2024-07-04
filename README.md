@@ -6,4 +6,4 @@ Live App: https://login-html-app.vercel.app/
 <br>
 <br>
 
-![Screenshot 2024-01-02 130721](https://github.com/JDsabo/login-html-app/assets/82731778/c1e1b5d7-0e55-44ea-b4e6-0d13207bf7b4)
+![Screenshot 2024-07-03 232553](https://github.com/JDsabo/login-html-app/assets/82731778/9e9c3244-d420-4f49-bd14-e5f66adeef9b)
