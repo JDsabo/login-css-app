@@ -1,5 +1,5 @@
 <h1>Login App with Signup & Signin created by Sabo</h1>
-Small web app with customized CSS and basic JS logic, feel free to edit an re-create. Data and backend could be connected ports are open and the app is fully customizable.
+Small web app with customized CSS and basic JS logic, feel free to edit an re-create. Data and backend could be connected ports are open and the app is fully customizable
 <br>
 <br>
 Live App: https://login-html-app.vercel.app/
